@@ -10,4 +10,4 @@
 ## Reference
 - [기술 면접 대비 레포](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [BaaaaarkingDog - 실전 알고리즘 강좌](https://blog.encrypted.gg/919)
-- [baekjon 레포](https://github.com/tony9402/baekjoon)
+- [baekjon 레포 - 문제 분류는 이 레포 참고하세요](https://github.com/tony9402/baekjoon)
