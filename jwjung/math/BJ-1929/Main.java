@@ -38,10 +38,8 @@ public class Main {
         //예외: 인자가 1인 경우
         if (argNumber == 1) return false;
 
-        int sqrt = (int) Math.sqrt(argNumber);
-
         //N이 합성수라면 1과 루트 N사이에 반드시 약수가 존재함
-        for (int i = 2; i <= sqrt; i++) {
+        for (int i = 2; i * i <= argNumber; i++) {
             if (argNumber % i == 0) {
                 return false;
             }
